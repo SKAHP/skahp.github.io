@@ -1,1 +1,1 @@
-wws.xagacity.zone/alpha
+wws.xagacity.zone
